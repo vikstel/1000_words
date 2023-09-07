@@ -23,7 +23,7 @@ for words in all_words:
     russian_word = words.find("span", class_="rus").text
     img_link = f'https://www.kreekly.com{words.find("img").get("src")}'
     all_words_list.append(
-        {english_word: [russian_word, img_link]}
+        [english_word, russian_word, img_link]
     )
     count += 1
     print(english_word)

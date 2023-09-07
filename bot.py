@@ -1,3 +1,4 @@
+import json
 import random
 from aiogram import Bot, Dispatcher
 from aiogram.types import Message
@@ -10,17 +11,22 @@ bot = Bot(token, parse_mode='HTML')
 dp = Dispatcher()
 
 
+with open('words.json', 'r', encoding='utf-8') as file:
+    words = json.load(file)
+
+# for word in words:
+#     print(word[0], word[1], word[2])
+
+
 @dp.message(Command(commands=['start']))
 async def start_commands(message: Message):
-    random_number = random.choices([i for i in range(1, 34)], k=10)
-    for num in random_number:
-        with sqlite3.connect('morning_questions.db') as con:
-            cur = con.cursor()
-            cur.execute("""SELECT question, answer FROM questions WHERE id = (?)""", (num,))
-            text_fetchall = cur.fetchall()
-            text_to_answer = f'<b>{text_fetchall[0][0]}</b>\n' \
-                             f'{text_fetchall[0][1]}'
-            await message.answer(text_to_answer)
+    random_words = words[:5]
+    for word in random_words:
+        text_to_answer = f'<b>{word[0]}</b>\n' \
+                             f'{word[2]}\n' \
+                            f'{word[1]}</b>'
+
+    await message.answer(text_to_answer)
 
 
 if __name__ == '__main__':

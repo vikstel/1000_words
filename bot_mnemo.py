@@ -11,7 +11,7 @@ bot = Bot(token, parse_mode='HTML')
 dp = Dispatcher()
 
 
-with open('words.json', 'r', encoding='utf-8') as file:
+with open('cards.json', 'r', encoding='utf-8') as file:
     words = json.load(file)
 
 # random_words = words[:5]

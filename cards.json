@@ -1,0 +1,3260 @@
+[
+    {
+        "russian_word": "Осень",
+        "english_word": "Autumn",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/557f82814b16a22090dd33a119dfc81d.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/autumn.mp3"
+    },
+    {
+        "russian_word": "Собака",
+        "english_word": "Dog",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3fae39085c00c0f4580798a6e68be9ed.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/dog.mp3"
+    },
+    {
+        "russian_word": "Восемьдесят",
+        "english_word": "Eighty",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7e241765f309b5adbc06924e4f3b81b0.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/eighty.mp3"
+    },
+    {
+        "russian_word": "Дом",
+        "english_word": "Home",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/52990eb242e7e0e2fef477c84b28513d.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/home.mp3"
+    },
+    {
+        "russian_word": "Сто",
+        "english_word": "Hundred",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/312565f8ea9b69a567d39ca7984d4df0.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/hundred.mp3"
+    },
+    {
+        "russian_word": "Месяц",
+        "english_word": "Month",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/9badf6a31089d4dea26c758e6be92b13.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/month.mp3"
+    },
+    {
+        "russian_word": "Время",
+        "english_word": "Time",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/03a379205d5529392462f5a294244fc1.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/time.mp3"
+    },
+    {
+        "russian_word": "Зима",
+        "english_word": "Winter",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7a0b1ed5677fbf0091f1ca3bb3f539c9.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/winter.mp3"
+    },
+    {
+        "russian_word": "Принимать",
+        "english_word": "Accept",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8a2cef4b691af0db64389581447e7bc5.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/accept.mp3"
+    },
+    {
+        "russian_word": "Признавать",
+        "english_word": "Admit",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/97ddf1310e1489afc16a44ea13956c5f.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/admit.mp3"
+    },
+    {
+        "russian_word": "Бороться",
+        "english_word": "Battle",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/98039dc4ca0059cc179ab750213f1a17.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/battle.mp3"
+    },
+    {
+        "russian_word": "Начать",
+        "english_word": "Begin",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/487e4ba1e171299bc3a124b1feddcc72.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/begin.mp3"
+    },
+    {
+        "russian_word": "Звонить",
+        "english_word": "Call",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/710c87d3579303069c0e659449f01c72.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/call.mp3"
+    },
+    {
+        "russian_word": "Требовать",
+        "english_word": "Claim",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/72e700504fdf51ba126f0f36087b463b.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/claim.mp3"
+    },
+    {
+        "russian_word": "Чистить",
+        "english_word": "Clean",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/6d55ed7e80f25a207aa8cca9cacf3870.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/clean.mp3"
+    },
+    {
+        "russian_word": "Расчесывать",
+        "english_word": "Comb",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7595f1c7886dff5358495927a0327068.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/comb.mp3"
+    },
+    {
+        "russian_word": "Готовить",
+        "english_word": "Cook",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/934ffe7f48295207429c8153ba899c76.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/cook.mp3"
+    },
+    {
+        "russian_word": "Кашлять",
+        "english_word": "Cough",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3e2d5b070fb48934916de24fc1dd0fc5.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/cough.mp3"
+    },
+    {
+        "russian_word": "Решать",
+        "english_word": "Decide",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5d42768047c74dc650733c3d3e236188.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/decide.mp3"
+    },
+    {
+        "russian_word": "Рисовать",
+        "english_word": "Draw",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8625152b153be9c761052381fd6402bf.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/draw.mp3"
+    },
+    {
+        "russian_word": "Заполнить",
+        "english_word": "Fill",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/05aa525c6acb7cf390a2ab924edc8c5f.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/fill.mp3"
+    },
+    {
+        "russian_word": "Летать",
+        "english_word": "Fly",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1f6be2cc53bf35e665f625973d608948.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/fly.mp3"
+    },
+    {
+        "russian_word": "Светиться",
+        "english_word": "Glow",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5d395215ef58dcb805156d34d3bb001a.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/glow.mp3"
+    },
+    {
+        "russian_word": "Схватить",
+        "english_word": "Grip",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/9458ba4ac8d8e46d606445ce70adecfd.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/grip.mp3"
+    },
+    {
+        "russian_word": "Случаться",
+        "english_word": "Happen",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/2c911a19956f69d7f89aa8b60fec8368.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/happen.mp3"
+    },
+    {
+        "russian_word": "Нравиться",
+        "english_word": "Like",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8fd3c666ac6195a2e608acabec5474af.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/like.mp3"
+    },
+    {
+        "russian_word": "Слушать",
+        "english_word": "Listen",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4dd7f73512d2346f73251c23a3eb7d43.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/listen.mp3"
+    },
+    {
+        "russian_word": "Выглядеть",
+        "english_word": "Look",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/13f6c6cf7e40f2ccfa97e9fe31f8c7b3.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/look.mp3"
+    },
+    {
+        "russian_word": "Закрыть",
+        "english_word": "Shut",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/92165a72da27b2acc5f588cfb0a2d267.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/shut.mp3"
+    },
+    {
+        "russian_word": "Подписывать,знак",
+        "english_word": "Sign",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/66bc11bcfdf1bf19625490c7dc42ece3.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/sign.mp3"
+    },
+    {
+        "russian_word": "Плавать",
+        "english_word": "Swim",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/086698a7a5a3eca81e7fa7697f6d7bb7.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/swim.mp3"
+    },
+    {
+        "russian_word": "Говорить",
+        "english_word": "Talk",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5f2c585f1719ebe21a45100d9ff7527c.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/talk.mp3"
+    },
+    {
+        "russian_word": "Путешествовать",
+        "english_word": "Travel",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/350040ec821249452852e63d31d2595a.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/travel.mp3"
+    },
+    {
+        "russian_word": "Ждать",
+        "english_word": "Wait",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/6e9e1f15c0f6f5cd67847bad8da7782f.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/wait.mp3"
+    },
+    {
+        "russian_word": "Перезвонить",
+        "english_word": "Call back",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/829a7138482cf146fe74c523ac71e312.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/call back.mp3"
+    },
+    {
+        "russian_word": "Убегать",
+        "english_word": "Run away",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/9a4e846973298b2e004600b14fdbf74c.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/run away.mp3"
+    },
+    {
+        "russian_word": "Слепой",
+        "english_word": "Blind",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/148543f2e91927fdeb924cc6289b76b0.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/blind.mp3"
+    },
+    {
+        "russian_word": "Мозг",
+        "english_word": "Brain",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8a1a3bf9970c6ace359feed9e56b0c79.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/brain.mp3"
+    },
+    {
+        "russian_word": "Мультфильм",
+        "english_word": "Cartoon",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1bb5299a4ddece7f7ef64bc6dc2bd898.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/cartoon.mp3"
+    },
+    {
+        "russian_word": "Круг",
+        "english_word": "Circle",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/841115f2507eb949468a9e1fd836ae50.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/circle.mp3"
+    },
+    {
+        "russian_word": "Ужас",
+        "english_word": "Horror",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5b1c4b54cc34e633dd97e8823d3b20d7.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/horror.mp3"
+    },
+    {
+        "russian_word": "Упоминать",
+        "english_word": "Mention",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/388717852ca07083e6a7c984d5c756b5.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/mention.mp3"
+    },
+    {
+        "russian_word": "Сообщение",
+        "english_word": "Message",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/834a51180bf84b2829ef491c3c95f811.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/message.mp3"
+    },
+    {
+        "russian_word": "Гора",
+        "english_word": "Mountain",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8778feaf0ff712e3318221978cdfc182.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/mountain.mp3"
+    },
+    {
+        "russian_word": "Пианино",
+        "english_word": "Piano",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/2001f8d412e31f9fb4b31028b2cd44f7.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/piano.mp3"
+    },
+    {
+        "russian_word": "Осознавать",
+        "english_word": "Realize",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/37723ba87114572a87e1077359069bfb.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/realize.mp3"
+    },
+    {
+        "russian_word": "Овца",
+        "english_word": "Sheep",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4d7dacdb6832618a3edfaf08477e1e21.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/sheep.mp3"
+    },
+    {
+        "russian_word": "Скрипка",
+        "english_word": "Violin",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1c9312f31caf5c398cfe690fd4e44d94.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/violin.mp3"
+    },
+    {
+        "russian_word": "Бродить",
+        "english_word": "Wander",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/385b636199aa21b6992f50e2b6a1c06e.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/wander.mp3"
+    },
+    {
+        "russian_word": "Рулевое колесо",
+        "english_word": "Wheel",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/39980806d9e599d81af35bcb1bb8bb10.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/wheel.mp3"
+    },
+    {
+        "russian_word": "Любитель",
+        "english_word": "Amateur",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4115f33156985b0eeb0e37d3815f6563.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/amateur.mp3"
+    },
+    {
+        "russian_word": "Фартук",
+        "english_word": "Apron",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5aa84da9359a4efae9a68cfd78e53b67.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/apron.mp3"
+    },
+    {
+        "russian_word": "Ползать",
+        "english_word": "Crawl",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4bfdb1cce1209250fad0e1c1b8138ef6.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/crawl.mp3"
+    },
+    {
+        "russian_word": "Знание",
+        "english_word": "Knowledge",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7ee7af04bea6838ef7089e94831c4af9.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/knowledge.mp3"
+    },
+    {
+        "russian_word": "Зеркало",
+        "english_word": "Mirror",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/19358d4378b7ccf4668f660b162a81bc.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/mirror.mp3"
+    },
+    {
+        "russian_word": "Удовольствие",
+        "english_word": "Pleasure",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8335af5b6a136065da13dec8bd0a158e.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/pleasure.mp3"
+    },
+    {
+        "russian_word": "Достаточный",
+        "english_word": "Sufficient",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/47b8141fc5adda28e11eec97559d0d4b.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/sufficient.mp3"
+    },
+    {
+        "russian_word": "Свистеть",
+        "english_word": "Whistle",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/04047ce085142ca5218ec28ee2c61ecc.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/whistle.mp3"
+    },
+    {
+        "russian_word": "Книга",
+        "english_word": "Book",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/02fec972636e2b03bc1ba6fc915af1a5.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/book.mp3"
+    },
+    {
+        "russian_word": "Купить",
+        "english_word": "Buy",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/13052d9cf9b8efbf654c712503c52509.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/buy.mp3"
+    },
+    {
+        "russian_word": "Цвет",
+        "english_word": "Colour",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/24f079f1205cdaf0665844e3e162caad.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/colour.mp3"
+    },
+    {
+        "russian_word": "Приходить",
+        "english_word": "Come",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/192b912a1a99455bdcf36797f9ba913c.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/come.mp3"
+    },
+    {
+        "russian_word": "Дверь",
+        "english_word": "Door",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8f11379e71dfc8134e5b50faa773150e.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/door.mp3"
+    },
+    {
+        "russian_word": "Глаз",
+        "english_word": "Eye",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/207c217963677ba7c5edc9c1c9a0a448.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/eye.mp3"
+    },
+    {
+        "russian_word": "Свободный",
+        "english_word": "Free",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/92a2f2d62c79254103f3ea700a687f9a.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/free.mp3"
+    },
+    {
+        "russian_word": "Любовь",
+        "english_word": "Love",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/890379ce87ac9ea8fce5b98e2de42b17.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/love.mp3"
+    },
+    {
+        "russian_word": "Деньги",
+        "english_word": "Money",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4f8cbf498ad08553457177eac9432b39.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/money.mp3"
+    },
+    {
+        "russian_word": "Часто",
+        "english_word": "Often",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/79f1b5df59ab5131db583c6b1249499c.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/often.mp3"
+    },
+    {
+        "russian_word": "Часть",
+        "english_word": "Part",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/2c7444db067e4c7a91423c17fc417e80.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/part.mp3"
+    },
+    {
+        "russian_word": "Кусок",
+        "english_word": "Piece",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/758f2a52ed1267abb6d8a260219bbc6c.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/piece.mp3"
+    },
+    {
+        "russian_word": "Сторона",
+        "english_word": "Side",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/69ea30bed6ac6a9b87f0dec5960dcd57.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/side.mp3"
+    },
+    {
+        "russian_word": "Солнце",
+        "english_word": "Sun",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/2c1a039ffa6811e3ce9374bd54b9146c.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/sun.mp3"
+    },
+    {
+        "russian_word": "Вода",
+        "english_word": "Water",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/06258e0a6bdef02c66383a3bf43d6eda.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/water.mp3"
+    },
+    {
+        "russian_word": "Машина",
+        "english_word": "Car",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1789f8d5571d5eb156060ad7440e61a9.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/car.mp3"
+    },
+    {
+        "russian_word": "Большой город",
+        "english_word": "City",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/03ea30cbc889d23c47f5a83072d4823c.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/city.mp3"
+    },
+    {
+        "russian_word": "Огонь",
+        "english_word": "Fire",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/59724a0d7e918bfda0ab23887a0ffa67.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/fire.mp3"
+    },
+    {
+        "russian_word": "Рыба",
+        "english_word": "Fish",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1f07a3b91873b743c102d0c578990996.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/fish.mp3"
+    },
+    {
+        "russian_word": "Лошадь",
+        "english_word": "Horse",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/934759c34f168d61274d312d41ae0b75.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/horse.mp3"
+    },
+    {
+        "russian_word": "Король",
+        "english_word": "King",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/13b0f3b606629c04ee594bf7e3140572.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/king.mp3"
+    },
+    {
+        "russian_word": "Север",
+        "english_word": "North",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3a1173f3ea8a4e3ac747ceef5343b96d.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/north.mp3"
+    },
+    {
+        "russian_word": "Ручка",
+        "english_word": "Pen",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/87c9dcf28e439a8c36ae8daaa74a3aa5.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/pen.mp3"
+    },
+    {
+        "russian_word": "Растение",
+        "english_word": "Plant",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/637386e3300c6efe59d4804418a837c9.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/plant.mp3"
+    },
+    {
+        "russian_word": "Вопрос",
+        "english_word": "Question",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/75e488f202d0cb13f35b729aa9e416b4.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/question.mp3"
+    },
+    {
+        "russian_word": "Речка",
+        "english_word": "River",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1d8576a4958f0f80368d35f0a2bd8846.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/river.mp3"
+    },
+    {
+        "russian_word": "Море",
+        "english_word": "Sea",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/88eb9dfe44fe1449ec0f2f250f6a569b.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/sea.mp3"
+    },
+    {
+        "russian_word": "Корабль",
+        "english_word": "Ship",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/70581f0761468b4bfee56dbb397e7aef.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/ship.mp3"
+    },
+    {
+        "russian_word": "Звук",
+        "english_word": "Sound",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7039532ba522cb406ab7d0256b8eab46.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/sound.mp3"
+    },
+    {
+        "russian_word": "Юг",
+        "english_word": "South",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/2456cd31f2245eb3b5c6d395c937d586.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/south.mp3"
+    },
+    {
+        "russian_word": "Пространство",
+        "english_word": "Space",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8323bac9a39cb5b01cd29ffa813ecc2f.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/space.mp3"
+    },
+    {
+        "russian_word": "Дерево",
+        "english_word": "Tree",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/66eaeb3a2432e5e9ae94c72b56c4755f.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/tree.mp3"
+    },
+    {
+        "russian_word": "Ветер",
+        "english_word": "Wind",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/80ce2655e828539838a93e6bb67f7786.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/wind.mp3"
+    },
+    {
+        "russian_word": "Назад",
+        "english_word": "Back",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/85cbe436e67d0de913bfbb8568c7e149.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/back.mp3"
+    },
+    {
+        "russian_word": "Не",
+        "english_word": "Not",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/60a6ad14ab6f0c9b91faaa2eeacebabf.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/not.mp3"
+    },
+    {
+        "russian_word": "Видеть",
+        "english_word": "See",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/48d4119f380bfa9b53632478ed0a24b6.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/see.mp3"
+    },
+    {
+        "russian_word": "Яркий",
+        "english_word": "Bright",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/9957868e7a0d0f29c6fba3026ab7c65f.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/bright.mp3"
+    },
+    {
+        "russian_word": "Спокойный",
+        "english_word": "Calm",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/32eb16894fece38e50a8ffaf1fd6696b.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/calm.mp3"
+    },
+    {
+        "russian_word": "Умный",
+        "english_word": "Clever",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/05eccc38b9a9e39225a14cc9988d1747.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/clever.mp3"
+    },
+    {
+        "russian_word": "Горячий",
+        "english_word": "Hot",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/50ef68205303cf596b45806359ec4b97.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/hot.mp3"
+    },
+    {
+        "russian_word": "Гордый",
+        "english_word": "Proud",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4653f8cce8bf5884bd8f6ceeecac229e.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/proud.mp3"
+    },
+    {
+        "russian_word": "Медленный",
+        "english_word": "Slow",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/92eab036f30bacc5d38494fdac08410c.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/slow.mp3"
+    },
+    {
+        "russian_word": "Маленький",
+        "english_word": "Small",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/95e2909845bc78671f1da679e3105d25.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/small.mp3"
+    },
+    {
+        "russian_word": "Тупой",
+        "english_word": "Stupid",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/632beb132408e91eadb458e5362b5d04.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/stupid.mp3"
+    },
+    {
+        "russian_word": "Уродливый",
+        "english_word": "Ugly",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/25645e2bdfe8eaaec206030fe99b8b60.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/ugly.mp3"
+    },
+    {
+        "russian_word": "Ниже",
+        "english_word": "Below",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3c3c99a78079b815b6dff36f3004fdf9.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/below.mp3"
+    },
+    {
+        "russian_word": "Меньше",
+        "english_word": "Less",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/361bb39c1f143f844d851bae29e12d4c.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/less.mp3"
+    },
+    {
+        "russian_word": "Около",
+        "english_word": "Nearly",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/6b2d4c44bf1d92313aa23dd7b08ad793.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/nearly.mp3"
+    },
+    {
+        "russian_word": "Бросать",
+        "english_word": "Cast",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/511c02a389c1997831dfa2aa32bffdf9.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/cast-cast-cast.mp3"
+    },
+    {
+        "russian_word": "Светить",
+        "english_word": "Shine",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4b70378289130fb06ad4fe8975e9f8b0.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/shine-shone-shone.mp3"
+    },
+    {
+        "russian_word": "Стрелять",
+        "english_word": "Shoot",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/04752558486da4a1f025e959f6598ef8.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/shoot-shot-shot.mp3"
+    },
+    {
+        "russian_word": "Идти крадучись",
+        "english_word": "Sneak",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3ae625fb480231da4951f4f7bb97165f.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/sneak-snuck-snuck.mp3"
+    },
+    {
+        "russian_word": "Скорость",
+        "english_word": "Speed",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7f2c89b20c2c22439845a5546491eebc.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/speed-sped-sped.mp3"
+    },
+    {
+        "russian_word": "Грубиян",
+        "english_word": "Boor",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4ce253cbc050cb6dd0b897e67b62b4f3.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/boor.mp3"
+    },
+    {
+        "russian_word": "Гребень",
+        "english_word": "Crest",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/286aa674c971bcbb5ee311b577007bfd.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/crest.mp3"
+    },
+    {
+        "russian_word": "Осколки",
+        "english_word": "Debris",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5ff7ee232ea451899683f1c95591c807.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/debris.mp3"
+    },
+    {
+        "russian_word": "Цифра",
+        "english_word": "Figure",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/12102ff9370f59967850f5efed680e7d.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/figure.mp3"
+    },
+    {
+        "russian_word": "Поднятие",
+        "english_word": "Lift",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/9072f2a749f18d42ac6e8faacc51d35c.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/lift.mp3"
+    },
+    {
+        "russian_word": "Сеть",
+        "english_word": "Net",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/93e3ee43c6952a78e2d339b10ba0e8e9.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/net.mp3"
+    },
+    {
+        "russian_word": "Штукатурка",
+        "english_word": "Plaster",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8ed9439b224a9b2bc18e101a19e962d5.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/plaster.mp3"
+    },
+    {
+        "russian_word": "Между",
+        "english_word": "Between",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/96bb03ca4b47d512f97d6d6c4ae30d3b.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/between.mp3"
+    },
+    {
+        "russian_word": "Мимо",
+        "english_word": "Past",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/80d438529f33b9a081ac9617fca7cc0b.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/past.mp3"
+    },
+    {
+        "russian_word": "Что",
+        "english_word": "That",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1eb57df6d383191ff826caf993e9444b.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/that.mp3"
+    },
+    {
+        "russian_word": "Рука",
+        "english_word": "Arm",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/857ca6c8a2617517e9f310ee77112aed.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/arm.mp3"
+    },
+    {
+        "russian_word": "Грудь",
+        "english_word": "Breast",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/70281475089a755299f30fb0d84bb2b1.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/breast.mp3"
+    },
+    {
+        "russian_word": "Щека",
+        "english_word": "Cheek",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/2b2ec9c8693484768825c897420eb3b4.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/cheek.mp3"
+    },
+    {
+        "russian_word": "Палец",
+        "english_word": "Finger",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4650946fe1cdd5e3e5e731d6be456863.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/finger.mp3"
+    },
+    {
+        "russian_word": "Волосы",
+        "english_word": "Hair",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8a342355d6a106e7fa9fa09f77ef7886.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/hair.mp3"
+    },
+    {
+        "russian_word": "Колено",
+        "english_word": "Knee",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8d18e6137f5d96cefdc9142f8de04660.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/knee.mp3"
+    },
+    {
+        "russian_word": "Нога",
+        "english_word": "Leg",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/39bf64ef420e8f31fa28232ba2043b0b.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/leg.mp3"
+    },
+    {
+        "russian_word": "Губа",
+        "english_word": "Lip",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/379e0c1a8bb56e8ed0fee998f11c5a80.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/lip.mp3"
+    },
+    {
+        "russian_word": "Рот",
+        "english_word": "Mouth",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3b882a7d699da83d8df125ea556593a0.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/mouth.mp3"
+    },
+    {
+        "russian_word": "Шея",
+        "english_word": "Neck",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/99f47805d508e2fe53dbb88a454abd5e.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/neck.mp3"
+    },
+    {
+        "russian_word": "Нос",
+        "english_word": "Nose",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8610ebb689599e75304f96c766794a88.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/nose.mp3"
+    },
+    {
+        "russian_word": "Язык",
+        "english_word": "Tongue",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/22e415b3ad7b7d77a5b6bb8861db817f.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/tongue.mp3"
+    },
+    {
+        "russian_word": "Зуб",
+        "english_word": "Tooth",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/853e57e26d3d9730679fc12275c423d2.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/tooth.mp3"
+    },
+    {
+        "russian_word": "Талия",
+        "english_word": "Waist",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/94b19aa0565917907825a5b98dcfdbfa.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/waist.mp3"
+    },
+    {
+        "russian_word": "Запястье",
+        "english_word": "Wrist",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/985b96f2d2740f6a3e5342f3afde0ce7.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/wrist.mp3"
+    },
+    {
+        "russian_word": "Толстый",
+        "english_word": "Fat",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/9759eff064ca18ac4c0c15fe8915a9d7.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/fat.mp3"
+    },
+    {
+        "russian_word": "Квартира, приплюснутый",
+        "english_word": "Flat",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7faf4e54c663bd6d42838c96a2b40a0c.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/flat.mp3"
+    },
+    {
+        "russian_word": "Рыжий",
+        "english_word": "Red",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/705a00ff60b23f8a63a1cdaf9c9858a9.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/red.mp3"
+    },
+    {
+        "russian_word": "Улыбка",
+        "english_word": "Smile",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/59b42227d803b3460c4c3277e54fdeaf.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/smile.mp3"
+    },
+    {
+        "russian_word": "Веселый",
+        "english_word": "Glad",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/31dd48d2a6f7fed5d49994ee691e5200.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/glad.mp3"
+    },
+    {
+        "russian_word": "Грустный",
+        "english_word": "Sad",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/79ce4316669cc0376253ac3a864e236d.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/sad.mp3"
+    },
+    {
+        "russian_word": "Лысый",
+        "english_word": "Bald",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/562e06e4eb05b311b11dbc49fd2290e3.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/bald.mp3"
+    },
+    {
+        "russian_word": "Усы",
+        "english_word": "Moustache",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8e4d803b642336686e835ab75e66b7e2.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/moustache.mp3"
+    },
+    {
+        "russian_word": "Овал",
+        "english_word": "Oval",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/70b611c2c4576a70c919d324edfe305b.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/oval.mp3"
+    },
+    {
+        "russian_word": "Пухлый",
+        "english_word": "Plump",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5d704ce69d1b0caf2a504134f2ec32c0.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/plump.mp3"
+    },
+    {
+        "russian_word": "Симпатичный",
+        "english_word": "Pretty",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/359baf145407a0c95e1ac338a8c6227b.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/pretty.mp3"
+    },
+    {
+        "russian_word": "Курносый",
+        "english_word": "Snub",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/66894ba380dc5b9360fa2d3981731fc4.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/snub.mp3"
+    },
+    {
+        "russian_word": "Квадратный",
+        "english_word": "Square",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/07776b2b61769dc8e031376c173d8004.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/square.mp3"
+    },
+    {
+        "russian_word": "Живот",
+        "english_word": "Belly",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/76836a433e70d50481d3233d442af614.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/belly.mp3"
+    },
+    {
+        "russian_word": "Подбородок",
+        "english_word": "Chin",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3e7d837fe53ee0e9993be10b8c397206.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/chin.mp3"
+    },
+    {
+        "russian_word": "Локоть",
+        "english_word": "Elbow",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/135f4f016eae2304baa879e4d191fc93.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/elbow.mp3"
+    },
+    {
+        "russian_word": "Кулак",
+        "english_word": "Fist",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3438c943f731ab971cf0e95e16f5675f.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/fist.mp3"
+    },
+    {
+        "russian_word": "Предплечье",
+        "english_word": "Forearm",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/46d8423e27163f493f76a280a4e2485b.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/forearm.mp3"
+    },
+    {
+        "russian_word": "Пятка",
+        "english_word": "Heel",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3ac92dc6fc4944c32be1c45f65117165.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/heel.mp3"
+    },
+    {
+        "russian_word": "Бедро",
+        "english_word": "Hip",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/577340c37e2e4979340ee1efc2627189.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/hip.mp3"
+    },
+    {
+        "russian_word": "Печень",
+        "english_word": "Liver",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/12caf7525913b8e5b2917a6285882a8c.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/liver.mp3"
+    },
+    {
+        "russian_word": "Пупок",
+        "english_word": "Navel",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/344f11c209f0102e9cf48681df213e5d.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/navel.mp3"
+    },
+    {
+        "russian_word": "Ребра",
+        "english_word": "Ribs",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/50dc96a98a28d10edd2eba0940daf8fe.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/ribs.mp3"
+    },
+    {
+        "russian_word": "Череп",
+        "english_word": "Skull",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7eb9b2b9df33c068b00391c54e5b5d6b.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/skull.mp3"
+    },
+    {
+        "russian_word": "Папа",
+        "english_word": "Dad",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/102bd5ebc7ff4c897439b24219ca213a.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/dad.mp3"
+    },
+    {
+        "russian_word": "Дочь",
+        "english_word": "Daughter",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/30de68237d8f6e104fbe803659be1744.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/daughter.mp3"
+    },
+    {
+        "russian_word": "Жена",
+        "english_word": "Wife",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/138154284a7f24b080203418debd73cd.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/wife.mp3"
+    },
+    {
+        "russian_word": "Общение",
+        "english_word": "Communication",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/73710f5897c82161207d004f25b0569b.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/communication.mp3"
+    },
+    {
+        "russian_word": "Таять",
+        "english_word": "Melt",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/9cff0d055521c9964ef53b0fe413a4cc.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/melt.mp3"
+    },
+    {
+        "russian_word": "Дождь со снегом",
+        "english_word": "Sleet",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1cb3017db10481d2beb3c4b048937344.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/sleet.mp3"
+    },
+    {
+        "russian_word": "Козел",
+        "english_word": "Goat",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/0530cddf91c26b8516df6388f07226a4.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/goat.mp3"
+    },
+    {
+        "russian_word": "Гусь",
+        "english_word": "Goose",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/693554867800eac42c540e1c0ceb3821.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/goose.mp3"
+    },
+    {
+        "russian_word": "Облако",
+        "english_word": "Cloud",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7b4654c720484e83c6cde2d55cfd16ff.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/cloud.mp3"
+    },
+    {
+        "russian_word": "Гром",
+        "english_word": "Thunder",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/88c6637d5142853b2e1b58841bedf3be.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/thunder.mp3"
+    },
+    {
+        "russian_word": "Мудрый",
+        "english_word": "Wise",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8fbd3a0a413d7d84ca3386e5d58e261d.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/wise.mp3"
+    },
+    {
+        "russian_word": "Ленивый",
+        "english_word": "Lazy",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3aa96c86d9d8f9d338e23bfcad218b49.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/lazy.mp3"
+    },
+    {
+        "russian_word": "Пепел",
+        "english_word": "Ash",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/63e879af23907a6da6ff858791c85cfc.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/ash.mp3"
+    },
+    {
+        "russian_word": "Бутылка",
+        "english_word": "Bottle",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1b0aa5eeb8e6c7a25405ebb8b3eb7630.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/bottle.mp3"
+    },
+    {
+        "russian_word": "Спичка",
+        "english_word": "Match",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/30580db1917d662552730b06d779627a.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/match.mp3"
+    },
+    {
+        "russian_word": "Трубка",
+        "english_word": "Pipe",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/52ac589fbe657bcc9f5fcf5419ea32e9.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/pipe.mp3"
+    },
+    {
+        "russian_word": "Медведь",
+        "english_word": "Bear",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/9cf6601af6af0598faffc127faf157b8.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/bear.mp3"
+    },
+    {
+        "russian_word": "Лиса",
+        "english_word": "Fox",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/685888fd6f9f223f4e0c1021e32ecab5.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/fox.mp3"
+    },
+    {
+        "russian_word": "Ящерица",
+        "english_word": "Lizard",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5e9478f38c9e075c77f3d893cfed7bbb.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/lizard.mp3"
+    },
+    {
+        "russian_word": "Змея",
+        "english_word": "Snake",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3e0b270e4da4afcc273ce26111a5cf3d.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/snake.mp3"
+    },
+    {
+        "russian_word": "Паук",
+        "english_word": "Spider",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/16dbfbec190ac310b1f856647c1b7529.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/spider.mp3"
+    },
+    {
+        "russian_word": "Черепаха",
+        "english_word": "Turtle",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/70ab137ae902f35b5ee1f38c3e975021.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/turtle.mp3"
+    },
+    {
+        "russian_word": "Орел",
+        "english_word": "Eagle",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4af1c39b1d4cb9319f7300526478d60a.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/eagle.mp3"
+    },
+    {
+        "russian_word": "Голубь",
+        "english_word": "Pigeon",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/729479381c1bbaad196c77f28ceef19e.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/pigeon.mp3"
+    },
+    {
+        "russian_word": "Крыло",
+        "english_word": "Wing",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5ba4b584d107edfaaa6ba4846e348f91.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/wing.mp3"
+    },
+    {
+        "russian_word": "Икра ноги",
+        "english_word": "Calf",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/94574d8aeda3b1a3424e192b6e4f0d20.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/calf.mp3"
+    },
+    {
+        "russian_word": "Веко",
+        "english_word": "Eyelid",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7cfb06962ac22852890871c09fcd9541.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/eyelid.mp3"
+    },
+    {
+        "russian_word": "Трясти",
+        "english_word": "Shake",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3c3e381c62b2e831605beb827ecfd675.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/shake.mp3"
+    },
+    {
+        "russian_word": "Цветок",
+        "english_word": "Flower",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/229e9dd6b4b11f1cd74e7c6f4a20e223.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/flower.mp3"
+    },
+    {
+        "russian_word": "Лепесток",
+        "english_word": "Petal",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/118945886ffd279423b790fec26d41d6.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/petal.mp3"
+    },
+    {
+        "russian_word": "Неудача",
+        "english_word": "Failure",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/70d1f61582bee8f021723a74506873d0.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/failure.mp3"
+    },
+    {
+        "russian_word": "Амбициозный",
+        "english_word": "High",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4c6fb1a017b6b477cb1cda35d401ae3d.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/high-flying.mp3"
+    },
+    {
+        "russian_word": "Кровь",
+        "english_word": "Blood",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1131dfbd540d4deb937696704eecd126.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/blood.mp3"
+    },
+    {
+        "russian_word": "Медуза",
+        "english_word": "Jellyfish",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/989dfc0971fe1e8ab5aac38895ec2f9b.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/jellyfish.mp3"
+    },
+    {
+        "russian_word": "Чешуя",
+        "english_word": "Scales",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/6908c6507e4b94b46c4d15db944a8161.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/scales.mp3"
+    },
+    {
+        "russian_word": "Акула",
+        "english_word": "Shark",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1f838217f97815593d58c3d5d01db952.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/shark.mp3"
+    },
+    {
+        "russian_word": "Морская звезда",
+        "english_word": "Starfish",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4e47a66b28b37208eca6a7fd92cf3b96.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/starfish.mp3"
+    },
+    {
+        "russian_word": "Причина",
+        "english_word": "Cause",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8551fbbf58fe9d6eb2a0aa374b815ed1.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/cause.mp3"
+    },
+    {
+        "russian_word": "Затмение",
+        "english_word": "Eclipse",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/67fd37ed6b3168c97a88f03a2267e001.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/eclipse.mp3"
+    },
+    {
+        "russian_word": "Проход",
+        "english_word": "Aisle",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/804b8010f417a12a138818d71b220e7b.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/aisle.mp3"
+    },
+    {
+        "russian_word": "Багажник",
+        "english_word": "Boot",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/06c0b57c1fc92f7504d38702020b5e2e.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/boot.mp3"
+    },
+    {
+        "russian_word": "Вишня",
+        "english_word": "Cherry",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/23cfc1aba22768e5ea13ee3fad9a8e36.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/cherry.mp3"
+    },
+    {
+        "russian_word": "Кокос",
+        "english_word": "Coconut",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7aafd6df5cc6362642e9c955fe0650e6.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/coconut.mp3"
+    },
+    {
+        "russian_word": "Виноград",
+        "english_word": "Grape",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/9e7a1edd86538741167350d433755c6e.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/grape.mp3"
+    },
+    {
+        "russian_word": "Дыня",
+        "english_word": "Melon",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/9629fb9d98456bd13260a4d2dd06dc3e.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/melon.mp3"
+    },
+    {
+        "russian_word": "Апельсин",
+        "english_word": "Orange",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/580f7ffed67d51451d3d8a97b52e906a.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/orange.mp3"
+    },
+    {
+        "russian_word": "Персик",
+        "english_word": "Peach",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5b6eff744a4e7cac7108f5bbb5f6ef3f.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/peach.mp3"
+    },
+    {
+        "russian_word": "Груша",
+        "english_word": "Pear",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/2247979bcbf185af11e608614718fb63.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/pear.mp3"
+    },
+    {
+        "russian_word": "Слива",
+        "english_word": "Plum",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/2142bcf1c4319823bf1f7fbee0dc630e.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/plum.mp3"
+    },
+    {
+        "russian_word": "Клубника",
+        "english_word": "Strawberry",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/817120dd94edcb07ea61b0aca6b1180e.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/strawberry.mp3"
+    },
+    {
+        "russian_word": "Лодка",
+        "english_word": "Boat",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/955ecd0fe24cd2e2e47a7184a4e27c41.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/boat.mp3"
+    },
+    {
+        "russian_word": "Побережье",
+        "english_word": "Coast",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/66c9a09cb257c1350a7ff41962254de0.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/coast.mp3"
+    },
+    {
+        "russian_word": "Глубокий",
+        "english_word": "Deep",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7e5e718c4a66c818fbad75d4d5a64aa9.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/deep.mp3"
+    },
+    {
+        "russian_word": "Океан",
+        "english_word": "Ocean",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/888887bc3357d62a1eea987511f9b469.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/ocean.mp3"
+    },
+    {
+        "russian_word": "Песок",
+        "english_word": "Sand",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/033574f507f5310243586684929a4c84.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/sand.mp3"
+    },
+    {
+        "russian_word": "Раковина",
+        "english_word": "Shell",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/85778a037ace892408a41f949fa9c7a9.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/shell.mp3"
+    },
+    {
+        "russian_word": "Масло",
+        "english_word": "Butter",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/057f811cec768cf4415a6dfcffae9e50.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/butter.mp3"
+    },
+    {
+        "russian_word": "Выпекать",
+        "english_word": "Bake",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/19a7e3261e6f193a6a1b0708aaf0fb2f.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/bake.mp3"
+    },
+    {
+        "russian_word": "Смешивать",
+        "english_word": "Mix",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/268f2a7ca1ba630e9dfbbc12c27d0822.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/mix.mp3"
+    },
+    {
+        "russian_word": "Смерч",
+        "english_word": "Twister",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/996ef1f5adfb492a38e12b1236360358.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/twister.mp3"
+    },
+    {
+        "russian_word": "Капуста",
+        "english_word": "Cabbage",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/245b8cdae7c9ea204a93c8603c485d46.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/cabbage.mp3"
+    },
+    {
+        "russian_word": "Морковь",
+        "english_word": "Carrot",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/94429191999fb9b4a2bdeea68114a200.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/carrot.mp3"
+    },
+    {
+        "russian_word": "Огурец",
+        "english_word": "Cucumber",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/45b3abe7c85db63a9f24a70d7739cfd1.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/cucumber.mp3"
+    },
+    {
+        "russian_word": "Лук",
+        "english_word": "Onion",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/31510467023e285a97b15cfb481ef956.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/onion.mp3"
+    },
+    {
+        "russian_word": "Картофель",
+        "english_word": "Potato",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8aa2bee9f081a479963bdbffc245c679.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/potato.mp3"
+    },
+    {
+        "russian_word": "Редис",
+        "english_word": "Radish",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/6f84ee2baac9a15bc9cc43a53c88b63d.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/radish.mp3"
+    },
+    {
+        "russian_word": "Помидор",
+        "english_word": "Tomato",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/09f2256cfec2728d64fe432beb121c81.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/tomato.mp3"
+    },
+    {
+        "russian_word": "Глина",
+        "english_word": "Clay",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/49f67c7268bbf3a0e0a31da03b3e1993.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/clay.mp3"
+    },
+    {
+        "russian_word": "Плющ",
+        "english_word": "Ivy",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/6ed73cbe2a354261f302d38c485cd53b.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/ivy.mp3"
+    },
+    {
+        "russian_word": "Дорога",
+        "english_word": "Road",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/126d8d8e051e5a7d16b609183f11d270.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/road.mp3"
+    },
+    {
+        "russian_word": "Улица",
+        "english_word": "Street",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/291a56bf55bc88538b8473dfce8fdf55.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/street.mp3"
+    },
+    {
+        "russian_word": "Хлеб",
+        "english_word": "Bread",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7944b652185ff7a39b5e983315914cee.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/bread.mp3"
+    },
+    {
+        "russian_word": "Печенье",
+        "english_word": "Cookie",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/90189ea1724bd58ce2dfcb4e276ca464.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/cookie.mp3"
+    },
+    {
+        "russian_word": "Яйцо",
+        "english_word": "Egg",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/703810d43c42f814a177f43f1d6ae022.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/egg.mp3"
+    },
+    {
+        "russian_word": "Мед",
+        "english_word": "Honey",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/13465f30edfa63f6577dc68675ee4ce3.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/honey.mp3"
+    },
+    {
+        "russian_word": "Блин",
+        "english_word": "Pancake",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/81b3c3622ab9242872d3be98b1eea384.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/pancake.mp3"
+    },
+    {
+        "russian_word": "Рис",
+        "english_word": "Rice",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8150b64fda5fb50fd2ded04d4f77baa6.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/rice.mp3"
+    },
+    {
+        "russian_word": "Соль",
+        "english_word": "Salt",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/10a640d6b7a0520babd040c0d8dfd1b2.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/salt.mp3"
+    },
+    {
+        "russian_word": "Каша",
+        "english_word": "Porridge",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/455d6b56cf692d686ff92281aace99b4.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/porridge.mp3"
+    },
+    {
+        "russian_word": "Тишина",
+        "english_word": "Silence",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7dfc5c2607e68ea71a7ca79214aa0aa3.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/silence.mp3"
+    },
+    {
+        "russian_word": "Автобус",
+        "english_word": "Bus",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1a9bf3d7477ea0be8840e8ef34892c20.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/bus.mp3"
+    },
+    {
+        "russian_word": "Сиденье",
+        "english_word": "Seat",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/68e3eeb2b5ad7efc0b12488a3fb543bf.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/seat.mp3"
+    },
+    {
+        "russian_word": "Тротуар",
+        "english_word": "Sidewalk",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/6e7aad4d9d10d172caceaf4f14377113.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/sidewalk.mp3"
+    },
+    {
+        "russian_word": "Билет",
+        "english_word": "Ticket",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/18e85ac16c11d9ea62560ba159549a45.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/ticket.mp3"
+    },
+    {
+        "russian_word": "Поезд",
+        "english_word": "Train",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/9f1eace84d5bc5142adfd29e9cff20b4.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/train.mp3"
+    },
+    {
+        "russian_word": "Ветчина",
+        "english_word": "Ham",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/23079a6726f509358e96f691f1c2f543.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/ham.mp3"
+    },
+    {
+        "russian_word": "Мясо",
+        "english_word": "Meat",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1f7e96526a751b9b21aab7e2e6565731.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/meat.mp3"
+    },
+    {
+        "russian_word": "Свинина",
+        "english_word": "Pork",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1a91d52c01b33115180b65880669e741.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/pork.mp3"
+    },
+    {
+        "russian_word": "Кружка",
+        "english_word": "Cup",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/586002f8ff9a94c693bce6c8e353b87e.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/cup.mp3"
+    },
+    {
+        "russian_word": "Стакан",
+        "english_word": "Glass",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3a5a81e81a60a5a3bb646b5b25a2d574.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/glass.mp3"
+    },
+    {
+        "russian_word": "Сковорода",
+        "english_word": "Pan",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/122fba38e9ba6401a38548d47a302415.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/pan.mp3"
+    },
+    {
+        "russian_word": "Тарелка",
+        "english_word": "Plate",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/139fbbf2f04b022c32f7022a00921ff4.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/plate.mp3"
+    },
+    {
+        "russian_word": "Кастрюля",
+        "english_word": "Pot",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1adda342a640d54e81a021f6d89a4829.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/pot.mp3"
+    },
+    {
+        "russian_word": "Ложка",
+        "english_word": "Spoon",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/10e164dd88a62f137845f3058ca3c1e1.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/spoon.mp3"
+    },
+    {
+        "russian_word": "Условие",
+        "english_word": "Condition",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/591e5f516ae4606281c2adbbe4303ce3.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/condition.mp3"
+    },
+    {
+        "russian_word": "Точка",
+        "english_word": "Point",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4868535153d350ae3bd1d2ce982e9435.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/point.mp3"
+    },
+    {
+        "russian_word": "Правило",
+        "english_word": "Rule",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3f824765d9d60f5f92a5f708d018dd7f.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/rule.mp3"
+    },
+    {
+        "russian_word": "Цель",
+        "english_word": "Goal",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/531ab7d6d7a730102a91e7587e1906f9.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/goal.mp3"
+    },
+    {
+        "russian_word": "Частица",
+        "english_word": "Particle",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/27c7469c86ea089bec3327fa3eda32b1.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/particle.mp3"
+    },
+    {
+        "russian_word": "Шрифт",
+        "english_word": "Font",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/2350148fb21bf2e7383bd2942523803d.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/font.mp3"
+    },
+    {
+        "russian_word": "Поцелуй",
+        "english_word": "Kiss",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/54379b6988b15f9f6f3c6034d80e9bbb.jpeg",
+        "sound_card": null
+    },
+    {
+        "russian_word": "Ожог",
+        "english_word": "Burn",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5735cdc9f443f87978b06c9ebec87aa2.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/burn.mp3"
+    },
+    {
+        "russian_word": "Пояс",
+        "english_word": "Belt",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5ba8c7c67749820ccdb9c7bf67e52f17.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/belt.mp3"
+    },
+    {
+        "russian_word": "Пальто",
+        "english_word": "Coat",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8526131f0eba4479f601a7c723e269eb.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/coat.mp3"
+    },
+    {
+        "russian_word": "Шляпа",
+        "english_word": "Hat",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5209cc6479dd999dcc6dc7965f445cb7.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/hat.mp3"
+    },
+    {
+        "russian_word": "Шарф",
+        "english_word": "Scarf",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/50a1aba16ea8cb6f94264b03c4e58422.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/scarf.mp3"
+    },
+    {
+        "russian_word": "Носки",
+        "english_word": "Socks",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/6841753bc6b8ade3cbfbd0c27e69fbe1.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/socks.mp3"
+    },
+    {
+        "russian_word": "Брюки",
+        "english_word": "Trousers",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/998c9ee8d98462f7da79b650b7f8b0ad.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/trousers.mp3"
+    },
+    {
+        "russian_word": "Варежки",
+        "english_word": "Mittens",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/902ec7c2faf6f581c1f0f0852c6e092b.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/mittens.mp3"
+    },
+    {
+        "russian_word": "Обложка",
+        "english_word": "Cover",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8f143c39758486cd6206c43f592fdd62.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/cover.mp3"
+    },
+    {
+        "russian_word": "Миска",
+        "english_word": "Bowl",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/43695777076e7cd5c952aced54ba0348.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/bowl.mp3"
+    },
+    {
+        "russian_word": "Кружка",
+        "english_word": "Mug",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8fa2c25e6a1f4e933ac3b19dfffe1148.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/mug.mp3"
+    },
+    {
+        "russian_word": "Полка",
+        "english_word": "Shelf",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/164f95888d0364c22f2cb96dce846142.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/shelf.mp3"
+    },
+    {
+        "russian_word": "Ванна",
+        "english_word": "Bath",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/114e859bbf5cbe349c27d52faff244ef.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/bath.mp3"
+    },
+    {
+        "russian_word": "Этаж",
+        "english_word": "Floor",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/617743aee2a565f7cd365909d379787d.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/floor.mp3"
+    },
+    {
+        "russian_word": "Замок",
+        "english_word": "Lock",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/224d891f874b2e18eb4071f58f42af36.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/lock.mp3"
+    },
+    {
+        "russian_word": "Одеяло",
+        "english_word": "Blanket",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/24d2b7fb55d8a4f6279025d832973812.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/blanket.mp3"
+    },
+    {
+        "russian_word": "Часы",
+        "english_word": "Clock",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/60c78a63361b5ac2ffe649559621ce6a.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/clock.mp3"
+    },
+    {
+        "russian_word": "Подушка",
+        "english_word": "Pillow",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/07bbd9041c2372ca0111e4e622e88be2.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/pillow.mp3"
+    },
+    {
+        "russian_word": "Спать",
+        "english_word": "Sleep",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/0230a9d781494701d11c16307dc3f2f9.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/sleep.mp3"
+    },
+    {
+        "russian_word": "Ножницы",
+        "english_word": "Scissors",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/210c84a9e4c7e088355c6a14a635228e.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/scissors.mp3"
+    },
+    {
+        "russian_word": "Мыло",
+        "english_word": "Soap",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7b6417317bfbb19537835cda4070d26b.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/soap.mp3"
+    },
+    {
+        "russian_word": "Губка",
+        "english_word": "Sponge",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/2fff0cd0ec1c6357dc280fea1648611e.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/sponge.mp3"
+    },
+    {
+        "russian_word": "Ковер",
+        "english_word": "Carpet",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/9bad89fc8f37bbe7c5a8b37a165f768c.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/carpet.mp3"
+    },
+    {
+        "russian_word": "Замок",
+        "english_word": "Castle",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/92fb2d8543a7b0f0b1d4740569a39de5.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/castle.mp3"
+    },
+    {
+        "russian_word": "Ключ",
+        "english_word": "Key",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3f22c266b257e9ca71d2e9bf2cd20eaa.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/key.mp3"
+    },
+    {
+        "russian_word": "Шахматы",
+        "english_word": "Chess",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/531f41dbeb9eee38d44b4957aabfd209.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/chess.mp3"
+    },
+    {
+        "russian_word": "Удар",
+        "english_word": "Kick",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7fb9b1d8c311c4bc7e7f761ed3e3737d.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/kick.mp3"
+    },
+    {
+        "russian_word": "Кувшин",
+        "english_word": "Jug",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/31d14ed94ea809722b2306067b164979.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/jug.mp3"
+    },
+    {
+        "russian_word": "Половник",
+        "english_word": "Ladle",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/169c84438b60eca9b188a7e684114173.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/ladle.mp3"
+    },
+    {
+        "russian_word": "Сумка",
+        "english_word": "Bag",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/657afcb0e0dd6971af3d5bd84cd4a727.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/bag.mp3"
+    },
+    {
+        "russian_word": "Мел",
+        "english_word": "Chalk",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/539bec565bcf7abd77d07386a41715da.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/chalk.mp3"
+    },
+    {
+        "russian_word": "Клей",
+        "english_word": "Glue",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7e67815ecc372dd92c481a5304fb7738.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/glue.mp3"
+    },
+    {
+        "russian_word": "Карандаш",
+        "english_word": "Pencil",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/9dbe3b8a359e1cded6175fbb466f6938.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/pencil.mp3"
+    },
+    {
+        "russian_word": "Выровнять",
+        "english_word": "Align",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/2436f784ed6f27571ccca06b861f1a33.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/align.mp3"
+    },
+    {
+        "russian_word": "Кадр",
+        "english_word": "Frame",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7467390eca4db2990f0551e0cb86c6ad.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/frame.mp3"
+    },
+    {
+        "russian_word": "Форма",
+        "english_word": "Shape",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/2f464a2e9e39902f46c6671bbaf7684b.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/shape.mp3"
+    },
+    {
+        "russian_word": "Привязка",
+        "english_word": "Snap",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1d3b1be44532ca509cd657ddda7f87db.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/snap.mp3"
+    },
+    {
+        "russian_word": "Покупатель",
+        "english_word": "Customer",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/6e18b74306a289c0f83700b687c46ed2.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/customer.mp3"
+    },
+    {
+        "russian_word": "Ведро",
+        "english_word": "Bucket",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/761f59fb7bc8097acf4d7eb0217cd0b2.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/bucket.mp3"
+    },
+    {
+        "russian_word": "Гвоздь",
+        "english_word": "Nail",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8d697ba6f9656d0f7ac9cd636ab89311.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/nail.mp3"
+    },
+    {
+        "russian_word": "Камень",
+        "english_word": "Stone",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3f78b4c06ebfa75f254afbc34602bb72.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/stone.mp3"
+    },
+    {
+        "russian_word": "Печь",
+        "english_word": "Oven",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/84957d2543e26937088db93ef70c0ef7.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/oven.mp3"
+    },
+    {
+        "russian_word": "Оскорбление",
+        "english_word": "Obloquy",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/71e067d1d51d3be25d7ca329bdd107af.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/obloquy.mp3"
+    },
+    {
+        "russian_word": "Швабра",
+        "english_word": "Mop",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4a8e47d26ae667b292ea00f1308f08e8.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/mop.mp3"
+    },
+    {
+        "russian_word": "Наносить на карту",
+        "english_word": "Chart",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/181c41ef43e35382fcb0c13853c62042.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/chart.mp3"
+    },
+    {
+        "russian_word": "Пустыня",
+        "english_word": "Desert",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/82ab71892d2a1691379d71d1852b74e7.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/desert.mp3"
+    },
+    {
+        "russian_word": "Мир",
+        "english_word": "Peace",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/538d2faca912146de5aa8ad0745552a4.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/peace.mp3"
+    },
+    {
+        "russian_word": "Кукуруза",
+        "english_word": "Corn",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3a2411ab9fb03f1fd15cf7ed7aa436d8.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/corn.mp3"
+    },
+    {
+        "russian_word": "Чеснок",
+        "english_word": "Garlic",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7b2cf5b1ef14afded1caf327a557d7ab.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/garlic.mp3"
+    },
+    {
+        "russian_word": "Петрушка",
+        "english_word": "Parsley",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/070514a2e16b034882dbd0f7e0101c98.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/parsley.mp3"
+    },
+    {
+        "russian_word": "Судья",
+        "english_word": "Judge",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5d955891f5fb6ced48878062ea7a547d.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/judge.mp3"
+    },
+    {
+        "russian_word": "Газированная вода",
+        "english_word": "Soda",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5170f4927a960f790a5ab17e62df12b6.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/soda.mp3"
+    },
+    {
+        "russian_word": "Позволить себе,предоставлять",
+        "english_word": "Afford",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/85924c7ffc62a7df0a6319d828c744ee.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/afford.mp3"
+    },
+    {
+        "russian_word": "Двигатель",
+        "english_word": "Engine",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/800f47a12b0f7a837affdef59d549f75.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/engine.mp3"
+    },
+    {
+        "russian_word": "Куст",
+        "english_word": "Bush",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7adf4a9728c050fb105b568e3a0c5b4c.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/bush.mp3"
+    },
+    {
+        "russian_word": "Трава",
+        "english_word": "Grass",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8ad739733903e35f1e652e3f0d444439.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/grass.mp3"
+    },
+    {
+        "russian_word": "Лист",
+        "english_word": "Leaf",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4232a32919c61ceb84648cb872e65b26.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/leaf.mp3"
+    },
+    {
+        "russian_word": "Орех",
+        "english_word": "Nut",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/01ecbbc4f8302657d1e17671936e018d.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/nut.mp3"
+    },
+    {
+        "russian_word": "Корень",
+        "english_word": "Root",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4e5d310473ad1cd3511ebc51e1bc3109.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/root.mp3"
+    },
+    {
+        "russian_word": "Семечко",
+        "english_word": "Seed",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8738af696a9c61f90210a8d0de24ec68.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/seed.mp3"
+    },
+    {
+        "russian_word": "Почва",
+        "english_word": "Soil",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/6d4d1d840844a4ad0dd1cd055b8fe9ef.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/soil.mp3"
+    },
+    {
+        "russian_word": "Делиться",
+        "english_word": "Share",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5cf574573913d909c67e92d59b6a9c49.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/share.mp3"
+    },
+    {
+        "russian_word": "Чайник",
+        "english_word": "Kettle",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1f92d29e6ba247dca1f33f79d71adcad.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/kettle.mp3"
+    },
+    {
+        "russian_word": "Щипцы",
+        "english_word": "Tongs",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5e5a7d9ec24d4898105d3090d649299a.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/tongs.mp3"
+    },
+    {
+        "russian_word": "Молоток",
+        "english_word": "Hammer",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/11e57ff4f2a234ef5b9932a2637e5354.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/hammer.mp3"
+    },
+    {
+        "russian_word": "Сталь",
+        "english_word": "Steel",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/06701b1b5b2ff4b040b27bc847bbdef6.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/steel.mp3"
+    },
+    {
+        "russian_word": "Согласный звук",
+        "english_word": "Consonant",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5bcffcd833de91bf40775f6b48c1caf2.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/consonant.mp3"
+    },
+    {
+        "russian_word": "Слог",
+        "english_word": "Syllable",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7c088fbcd585ab091ab376604fb45d24.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/syllable.mp3"
+    },
+    {
+        "russian_word": "Вера",
+        "english_word": "Belief",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/576418fdbdb938938fd3036e6dd1e392.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/belief.mp3"
+    },
+    {
+        "russian_word": "Долг",
+        "english_word": "Debt",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/82945438962669cc0a2fe7a66fd6accb.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/debt.mp3"
+    },
+    {
+        "russian_word": "Сюжет",
+        "english_word": "Plot",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8f42944df61f7b529ab6dd64dc83c24f.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/plot.mp3"
+    },
+    {
+        "russian_word": "Звезда",
+        "english_word": "Star",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/490cdd8dbf7250c3e3a3008c50da6549.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/star.mp3"
+    },
+    {
+        "russian_word": "Складывать,добавлять",
+        "english_word": "Add",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/14613ade91ac44607e88e79b8d575a3d.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/add.mp3"
+    },
+    {
+        "russian_word": "Угол",
+        "english_word": "Angle",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3ad388bea467092a333c0f7350d6b070.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/angle.mp3"
+    },
+    {
+        "russian_word": "Предложение цены",
+        "english_word": "Bid",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7c1640dc5ac9926ff4cff27ed6790d6e.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/bid.mp3"
+    },
+    {
+        "russian_word": "Свеча",
+        "english_word": "Candle",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1bfc348bcee5338191b32e6088cd6ba1.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/candle.mp3"
+    },
+    {
+        "russian_word": "Подушка",
+        "english_word": "Cushion",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/42f96e7ab2c8e010a558e452b1f5c72d.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/cushion.mp3"
+    },
+    {
+        "russian_word": "Пыль",
+        "english_word": "Dust",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/79567931184a5d38f8eaec33c31912a8.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/dust.mp3"
+    },
+    {
+        "russian_word": "Лампа",
+        "english_word": "Light",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/66394569c365e6dd3285a7b332468bb0.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/light.mp3"
+    },
+    {
+        "russian_word": "Розетка",
+        "english_word": "Socket",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/9518aaea89055aa33549f2724b8e82c8.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/socket.mp3"
+    },
+    {
+        "russian_word": "Переключатель",
+        "english_word": "Switch",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/9ea7fb4921b161bdad81a24ac7ba5fcd.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/switch.mp3"
+    },
+    {
+        "russian_word": "Сцена",
+        "english_word": "Scene",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/569ac86427ab35077efc344e59d9c686.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/scene.mp3"
+    },
+    {
+        "russian_word": "Муравей",
+        "english_word": "Ant",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/429662517a4d0d029a7c50973ad23c7e.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/ant.mp3"
+    },
+    {
+        "russian_word": "Гусеница",
+        "english_word": "Caterpillar",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4a46cd341899ccb6aaf45d095aca93bf.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/caterpillar.mp3"
+    },
+    {
+        "russian_word": "Стрекоза",
+        "english_word": "Dragonfly",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/631a906d9515f2c3cadb5e6e95a944f0.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/dragonfly.mp3"
+    },
+    {
+        "russian_word": "Пруд",
+        "english_word": "Pond",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1127b5065ec28c349ee81391ad46fe62.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/pond.mp3"
+    },
+    {
+        "russian_word": "Контракт",
+        "english_word": "Contract",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3469656e67a00e14ce56baef3fead826.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/contract.mp3"
+    },
+    {
+        "russian_word": "Треска",
+        "english_word": "Cod",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/78186c7a15a15d13dfd7f810989cd949.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/cod.mp3"
+    },
+    {
+        "russian_word": "Мидия",
+        "english_word": "Mussel",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7ed3f285ff0c01550b3ad0a2cbc4e268.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/mussel.mp3"
+    },
+    {
+        "russian_word": "Кусковой",
+        "english_word": "Lump",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/28fc2cc68f19f61531c69109a7c6ed20.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/lump.mp3"
+    },
+    {
+        "russian_word": "кекс",
+        "english_word": "Muffin",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3cb939a76beac9b239e94ede941f7377.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/muffin.mp3"
+    },
+    {
+        "russian_word": "Макаронные изделия",
+        "english_word": "Pasta",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/109a96676d08d8d8890f1a7e42820787.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/pasta.mp3"
+    },
+    {
+        "russian_word": "Сгнивший",
+        "english_word": "Rotten",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/530cf181cdef59a25dae258f1d21f313.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/rotten.mp3"
+    },
+    {
+        "russian_word": "Клетка",
+        "english_word": "Cell",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3bd5d9b4d04676e48caaea369ba94d33.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/cell.mp3"
+    },
+    {
+        "russian_word": "Страсть,пламя,предмет любви",
+        "english_word": "Flame",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/29cd2f405a6fbc6711f0264813b0dfd3.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/flame.mp3"
+    },
+    {
+        "russian_word": "Мех",
+        "english_word": "Fur",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/6b9c8a8f32e536749b5b4ce4b36f1621.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/fur.mp3"
+    },
+    {
+        "russian_word": "Кожа",
+        "english_word": "Leather",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4cd9a2e177ee3a76e6cbb33dd5c741da.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/leather.mp3"
+    },
+    {
+        "russian_word": "Шелк",
+        "english_word": "Silk",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/34431ace1896a8af40daeace3f8b05e3.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/silk.mp3"
+    },
+    {
+        "russian_word": "Барабан",
+        "english_word": "Drum",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/53dc4d441996b9d1357198c3c22ddbc0.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/drum.mp3"
+    },
+    {
+        "russian_word": "Аист",
+        "english_word": "Stork",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/14475a84701baf640828bbbae34354dd.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/stork.mp3"
+    },
+    {
+        "russian_word": "Кости игральные",
+        "english_word": "Dice",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/84f1a8d8f6f75d2b40ce5b6d43fd8ab5.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/dice.mp3"
+    },
+    {
+        "russian_word": "Чернила",
+        "english_word": "Ink",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/26f2594f0ea1f4bed5c7b8b61830cdf8.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/ink.mp3"
+    },
+    {
+        "russian_word": "Жидкость",
+        "english_word": "Liquid",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/17809ad24204689a9108b2dbd96b3bc6.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/liquid.mp3"
+    },
+    {
+        "russian_word": "Монета",
+        "english_word": "Coin",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/6e20b42e1f6cfaae36e03b59ee3b866d.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/coin.mp3"
+    },
+    {
+        "russian_word": "Бритва",
+        "english_word": "Razor",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/80b3c50f3b83dc1b82120ede2a524523.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/razor.mp3"
+    },
+    {
+        "russian_word": "Уморительный",
+        "english_word": "Hilarious",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/78ff18a18f63b6e341e76d56411a1d73.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/hilarious.mp3"
+    },
+    {
+        "russian_word": "Шутка",
+        "english_word": "Joke",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/41cc63825b7c927dcec9bc318847a406.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/joke.mp3"
+    },
+    {
+        "russian_word": "Смех",
+        "english_word": "Laugh",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/40bfa875cb70e26806baae98a02f49c1.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/laugh.mp3"
+    },
+    {
+        "russian_word": "Список избирателей",
+        "english_word": "Poll",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/81ad98ed75ed2bc0a1935878041be9fa.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/poll.mp3"
+    },
+    {
+        "russian_word": "Обвинять",
+        "english_word": "Accuse",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8a50aaf6e8306b38cb64fca376e376d9.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/accuse.mp3"
+    },
+    {
+        "russian_word": "Корзина",
+        "english_word": "Basket",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/03f62ba0079a889e1a9226aa98bbd62e.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/basket.mp3"
+    },
+    {
+        "russian_word": "Желать",
+        "english_word": "Wish",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/0172e929137b41b9cb5f90b6d873863d.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/wish.mp3"
+    },
+    {
+        "russian_word": "Кисть",
+        "english_word": "Brush",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4256efdc032468c6cb8a6915e8551c0c.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/brush.mp3"
+    },
+    {
+        "russian_word": "Вспышка",
+        "english_word": "Flash",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3b020a01575ba0e05098d73cb93721bf.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/flash.mp3"
+    },
+    {
+        "russian_word": "Линза",
+        "english_word": "Lens",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7d470f2db1f51399b4b61be54b108721.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/lens.mp3"
+    },
+    {
+        "russian_word": "Цепочка",
+        "english_word": "Chain",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/930377f9d60580a6f0da2c16547c4d87.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/chain.mp3"
+    },
+    {
+        "russian_word": "Очки",
+        "english_word": "Glasses",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/96d8d75239613a46a3a34e0ce17ece2e.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/glasses.mp3"
+    },
+    {
+        "russian_word": "Брошка",
+        "english_word": "Pin",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/84e8baa3210717a2e1461991be8adad7.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/pin.mp3"
+    },
+    {
+        "russian_word": "Кольцо",
+        "english_word": "Ring",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/78d20d78d64a7f94d41a55cac167e91a.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/ring.mp3"
+    },
+    {
+        "russian_word": "Бумажник",
+        "english_word": "Wallet",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/927e56c0c616caeeff6e4b73830b078f.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/wallet.mp3"
+    },
+    {
+        "russian_word": "Оттенок",
+        "english_word": "Shade",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/6f40af4a10e9c71612f22303a217de57.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/shade.mp3"
+    },
+    {
+        "russian_word": "Воск",
+        "english_word": "Wax",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4d8497d1618d60abb174bb53bc0c6f40.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/wax.mp3"
+    },
+    {
+        "russian_word": "Мусор",
+        "english_word": "Garbage",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/34b0adbb02357b11e4d3ced1a413485b.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/garbage.mp3"
+    },
+    {
+        "russian_word": "Вязание",
+        "english_word": "Knitting",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5d709337eea1b0e01d49646d7af5e125.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/knitting.mp3"
+    },
+    {
+        "russian_word": "Деление",
+        "english_word": "Division",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/28226112b59e62d63fccb683b690dbb6.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/division.mp3"
+    },
+    {
+        "russian_word": "Лесоматериалы",
+        "english_word": "Timber",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7cd0cda858f2d7c55e960cae2a7c7b15.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/timber.mp3"
+    },
+    {
+        "russian_word": "Коврик",
+        "english_word": "Rug",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8ff8f2a0edb5d996a1008f4e2e542ed0.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/rug.mp3"
+    },
+    {
+        "russian_word": "Скинуть карты",
+        "english_word": "Drop",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/64ad4afddb4a135b732fcf9ffa816082.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/drop.mp3"
+    },
+    {
+        "russian_word": "Парус",
+        "english_word": "Sail",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/289b81c53e69173572e0f6c1373e3b18.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/sail.mp3"
+    },
+    {
+        "russian_word": "Победитель",
+        "english_word": "Winner",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1fe332bf04f00545585e78abdfb85a56.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/winner.mp3"
+    },
+    {
+        "russian_word": "Движение",
+        "english_word": "Motion",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/837b85fc2c227811c3e98b27d28e22c4.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/motion.mp3"
+    },
+    {
+        "russian_word": "Лента",
+        "english_word": "Ribbon",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1cc8cdaf279b5a3a7ffc524118e0fd26.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/ribbon.mp3"
+    },
+    {
+        "russian_word": "Маховое движение",
+        "english_word": "Swing",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/9e9d80bd230ca4e107b3febe05ece0e5.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/swing.mp3"
+    },
+    {
+        "russian_word": "Барьер",
+        "english_word": "Gate",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7d64dcd5551333ba28d369490fd38376.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/gate.mp3"
+    },
+    {
+        "russian_word": "Лыжа",
+        "english_word": "Ski",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/32fd951bbb4807bd6629b00448580e80.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/ski.mp3"
+    },
+    {
+        "russian_word": "Центр дома (в кёрлинге), пуговица",
+        "english_word": "Button",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/094e2074b21fcd9d226ef20af182d0aa.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/button.mp3"
+    },
+    {
+        "russian_word": "Корка",
+        "english_word": "Peel",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7cc533bd37b1cf9ae1ba580b59051c48.jpeg",
+        "sound_card": null
+    },
+    {
+        "russian_word": "Кажется",
+        "english_word": "Seem to be",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3b0defa06397d221d52050359e5b26b1.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/seem to be.mp3"
+    },
+    {
+        "russian_word": "Причинять страдания",
+        "english_word": "Tear",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4f52cad40ccad52f6d962828fa9fe612.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/tear.mp3"
+    },
+    {
+        "russian_word": "Священный",
+        "english_word": "Sacred",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3afa5c12938e2d7fc65f3157ad4a27ed.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/sacred.mp3"
+    },
+    {
+        "russian_word": "Меч",
+        "english_word": "Sword",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/86ae9ef4488689be3f5b2409414cf342.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/sword.mp3"
+    },
+    {
+        "russian_word": "Ладонь,пальма",
+        "english_word": "Palm",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/773fca93884fa504bb3b5929c1fbc3ef.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/palm.mp3"
+    },
+    {
+        "russian_word": "Проливающий слёзы",
+        "english_word": "Weeping",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/974a5c3128204451a755efd8e320ea84.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/weeping.mp3"
+    },
+    {
+        "russian_word": "Маятник",
+        "english_word": "Pendulum",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3cc088003f2a2a2cf73b1e4f70c70138.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/pendulum.mp3"
+    },
+    {
+        "russian_word": "Сомнение",
+        "english_word": "Doubt",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/744a0fd8a7cd43fe0da3d516355df605.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/doubt.mp3"
+    },
+    {
+        "russian_word": "Безумный",
+        "english_word": "Mad",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7d1f8349d5035cdde6e8f3e7a58ac045.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/mad.mp3"
+    },
+    {
+        "russian_word": "Молить",
+        "english_word": "Beg",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/39757fe4e39faad916ac554ab7abda1e.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/beg.mp3"
+    },
+    {
+        "russian_word": "Вина",
+        "english_word": "Blame",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/51db92c28e87725519bc900cd6a832fa.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/blame.mp3"
+    },
+    {
+        "russian_word": "Удача",
+        "english_word": "Luck",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/83dd6b747536fd5384734e0538016b7d.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/luck.mp3"
+    },
+    {
+        "russian_word": "Мнение",
+        "english_word": "Opinion",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/562065b15cfabd78466197b939103be2.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/opinion.mp3"
+    },
+    {
+        "russian_word": "Сладкий",
+        "english_word": "Sweet",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/12440ec98377a52546b38d68a0d07ee2.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/sweet.mp3"
+    },
+    {
+        "russian_word": "Корона",
+        "english_word": "Crown",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1a59c9d674bd5ba8025b4b2f0d88ece4.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/crown.mp3"
+    },
+    {
+        "russian_word": "Лопата",
+        "english_word": "Shovel",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/66dabde36c1943733560077afa621401.jpeg",
+        "sound_card": null
+    },
+    {
+        "russian_word": "Разум",
+        "english_word": "Mind",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/6e3ccb09277ae3623cfff5503a943a20.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/mind.mp3"
+    },
+    {
+        "russian_word": "Педант",
+        "english_word": "Stickler",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1430d97f96d17ffceb491fd9fb91e4b7.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/stickler.mp3"
+    },
+    {
+        "russian_word": "Поманить",
+        "english_word": "Beckon",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/9733896493552080f2a44138a0e480ee.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/beckon.mp3"
+    },
+    {
+        "russian_word": "Жертвовать",
+        "english_word": "Sacrifice",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/57604579792d854dd11fdd9bcad48bc3.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/englishdom/sacrifice.mp3"
+    },
+    {
+        "russian_word": "Визжать",
+        "english_word": "Shriek",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/382b48419536e8b603d9ea858e48f0cc.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/shriek.ogg"
+    },
+    {
+        "russian_word": "Хвост",
+        "english_word": "Tail",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/22269701fee7810cf4dffbf905113080.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/tail.ogg"
+    },
+    {
+        "russian_word": "Раздуваться",
+        "english_word": "Bloat",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/28645797aff248d58dad7aabacfb9feb.jpeg",
+        "sound_card": null
+    },
+    {
+        "russian_word": "Клык",
+        "english_word": "Canine",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8e3d2366b110490200f6475301b5c3f9.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/canine.ogg"
+    },
+    {
+        "russian_word": "Дуть",
+        "english_word": "Blow",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/213cdd994355f24b0db2a4a2a8416d26.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/blow.ogg"
+    },
+    {
+        "russian_word": "Гардероб",
+        "english_word": "Checkroom",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5767c425dd00fa11df0f05325afdaf00.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/checkroom.ogg"
+    },
+    {
+        "russian_word": "Грудь,грудная клетка",
+        "english_word": "Chest",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/297a231e70a227e81a7a86f5dedc8485.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/chest.ogg"
+    },
+    {
+        "russian_word": "Уголь",
+        "english_word": "Coal",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/44a336d5de7852aeff82ca9867be73d6.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/coal.ogg"
+    },
+    {
+        "russian_word": "Воротник",
+        "english_word": "Collar",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/332ccc183ad63e516b7a6a19d499791f.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/collar.ogg"
+    },
+    {
+        "russian_word": "Сравнение",
+        "english_word": "Comparison",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/60660209c2f5ea0e488e36f0ab314825.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/comparison.ogg"
+    },
+    {
+        "russian_word": "Крик",
+        "english_word": "Cry",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5279f3520d5f659ffe77d21f0175e0ab.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/cry.ogg"
+    },
+    {
+        "russian_word": "Виновник",
+        "english_word": "Culprit",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/9a41a57e6a590fca88e0ea20bc48034c.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/culprit.ogg"
+    },
+    {
+        "russian_word": "Страх",
+        "english_word": "Fear",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/97abc508c3bcf054eb525f2fff419fbf.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/fear.ogg"
+    },
+    {
+        "russian_word": "Забор",
+        "english_word": "Fence",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5a8702535f4fd3d2ac6e1d876abdab96.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/fence.ogg"
+    },
+    {
+        "russian_word": "Перчатка",
+        "english_word": "Glove",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1caf8f9f730222f227e6d00e6ea64f40.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/glove.ogg"
+    },
+    {
+        "russian_word": "Пистолет",
+        "english_word": "Gun",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/9ca31d88629c6f3a0cc322a0381ec7c2.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/gun.ogg"
+    },
+    {
+        "russian_word": "Слух",
+        "english_word": "Hearing",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/33683ac9ae3e27c8dbddc8cfd20759e6.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/hearing.ogg"
+    },
+    {
+        "russian_word": "Жара",
+        "english_word": "Heat",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/225d11711a60a31fba3fab3739309e70.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/heat.ogg"
+    },
+    {
+        "russian_word": "Дыра",
+        "english_word": "Hole",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/68751b90e6d17966b7f1838ad889447c.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/hole.ogg"
+    },
+    {
+        "russian_word": "Соединять",
+        "english_word": "Join",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/6901273401218a47fca00c0829ea0177.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/join.ogg"
+    },
+    {
+        "russian_word": "Прыжок",
+        "english_word": "Jump",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4d2d8755fe4c481ed7506d53cb38663c.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/jump.ogg"
+    },
+    {
+        "russian_word": "Узел",
+        "english_word": "Knot",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/6ab0cd3026d316b2ac48bcd77acf5bc0.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/knot.ogg"
+    },
+    {
+        "russian_word": "Ресницы",
+        "english_word": "Lashes",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/66bb12dbfebecea34409f943702b3f51.jpeg",
+        "sound_card": null
+    },
+    {
+        "russian_word": "Последний",
+        "english_word": "Last",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1c793125d014b642c1234c717caded0a.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/last.ogg"
+    },
+    {
+        "russian_word": "Запах",
+        "english_word": "Odor",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/6dff4719062947642e5fdf1a72f51bad.jpeg",
+        "sound_card": null
+    },
+    {
+        "russian_word": "Насос",
+        "english_word": "Pump",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/75a50dcf1e2113a233a2f02ebc243934.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/pump.ogg"
+    },
+    {
+        "russian_word": "Гонка",
+        "english_word": "Race",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7a2b62e1f12728bae954434bd4a8764b.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/race.ogg"
+    },
+    {
+        "russian_word": "Родственники",
+        "english_word": "Relatives",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/33b2a74857ccb4e618bbc4ec5199142b.jpeg",
+        "sound_card": null
+    },
+    {
+        "russian_word": "Стержень, прут",
+        "english_word": "Rod",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/47c22d8a45caa5862d7bed55eadd4acb.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/rod.ogg"
+    },
+    {
+        "russian_word": "Тереть, натирать",
+        "english_word": "Rub",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/2197ef0c47fc39e758243911c4464d1f.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/rub.ogg"
+    },
+    {
+        "russian_word": "Шкала",
+        "english_word": "Scale",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/22ddb471b37b58e98265cf79a19d3d3d.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/scale.ogg"
+    },
+    {
+        "russian_word": "Лом (металлолом)",
+        "english_word": "Scrap",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7b590a3065e2f026cfe39b48078382b0.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/scrap.ogg"
+    },
+    {
+        "russian_word": "Винт, шуруп",
+        "english_word": "Screw",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/27380ae75e90db348461f0d1bdb67a10.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/screw.ogg"
+    },
+    {
+        "russian_word": "Отвёртка",
+        "english_word": "Screwdriver",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4af438a88bc34b44d5325ef2c053da5c.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/screwdriver.ogg"
+    },
+    {
+        "russian_word": "Стыд, позор",
+        "english_word": "Shame",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4e3abb6cb0eb0494a8cbfa4a37e98998.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/shame.ogg"
+    },
+    {
+        "russian_word": "Скользить",
+        "english_word": "Slip",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/2cd5b4933a81fbba07dc7a2b13555e85.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/slip.ogg"
+    },
+    {
+        "russian_word": "Дух",
+        "english_word": "Spirit",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/32ed62dfb0fad23de8de3f15f0b41857.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/spirit.ogg"
+    },
+    {
+        "russian_word": "Пятно",
+        "english_word": "Spot",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/9b0d9079924f069c1712f24a1933e179.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/spot.ogg"
+    },
+    {
+        "russian_word": "Закат солнца",
+        "english_word": "Sunset",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/66a5a88a5391580bb765609932a0cf0d.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/sunset.ogg"
+    },
+    {
+        "russian_word": "Мести",
+        "english_word": "Sweep",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/2951ab68bf42af369242923f9a34c703.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/sweep.ogg"
+    },
+    {
+        "russian_word": "Трудиться",
+        "english_word": "Toil",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/25f50363b7366cea245cefdd89771d92.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/toil.ogg"
+    },
+    {
+        "russian_word": "Знак, признак",
+        "english_word": "Token",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/2eea7377999b6682d31b0000684e9726.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/token.ogg"
+    },
+    {
+        "russian_word": "Поворот, оборот",
+        "english_word": "Turn",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8923c225c2542e2709c2d521848ea4b3.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/turn.ogg"
+    },
+    {
+        "russian_word": "Не в состоянии",
+        "english_word": "Unable",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7a30658bda80d526f0805583bd457094.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/unable.ogg"
+    },
+    {
+        "russian_word": "Голос",
+        "english_word": "Voice",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7a7301f3e498397f633eff2bcdd16977.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/voice.ogg"
+    },
+    {
+        "russian_word": "Погода",
+        "english_word": "Weather",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/6f7f895b1e53ef9d6387d4759cac3212.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/weather.ogg"
+    },
+    {
+        "russian_word": "Весь, целый",
+        "english_word": "Whole",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1a77a1d19211cf6a33f0e7c43857ca77.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/whole.ogg"
+    },
+    {
+        "russian_word": "Нет на месте",
+        "english_word": "Absent",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4fcf1aa1aef23c8a8bc283a577a2452e.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/absent.ogg"
+    },
+    {
+        "russian_word": "Аплодисменты",
+        "english_word": "Applause",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/27c0839b60f98dae572abcc5e3d6a1a7.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/applause.ogg"
+    },
+    {
+        "russian_word": "Румяна",
+        "english_word": "Blusher",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/2fb3bb68ba7a3cea15dc685138ea1c85.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/blusher.ogg"
+    },
+    {
+        "russian_word": "Коробка",
+        "english_word": "Box",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8fcb24b35980272411bf0b8dee311cb8.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/box.ogg"
+    },
+    {
+        "russian_word": "Койка",
+        "english_word": "Bunk",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/228fa17393e211a3b14f28d8144c6836.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/bunk.ogg"
+    },
+    {
+        "russian_word": "Деньги",
+        "english_word": "Cash",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/636db609d43bd25c6e9642c34f9bbf7d.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/cash.ogg"
+    },
+    {
+        "russian_word": "Аплодисменты, хлопающий",
+        "english_word": "Clapping",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5bbebaf3c3646a3262c4aedf033be33b.jpeg",
+        "sound_card": null
+    },
+    {
+        "russian_word": "Набирать номер, диск",
+        "english_word": "Dial",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/14df88107b0cc5c20b12da485308241a.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/dial.ogg"
+    },
+    {
+        "russian_word": "Смещать, перемещать",
+        "english_word": "Displace",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/41a84b4ac6cee9adde597572c6c99d55.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/displace.ogg"
+    },
+    {
+        "russian_word": "Чувствовать",
+        "english_word": "Feel",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/99bd24e53eb3464e5a5bbd298ec83e72.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/feel.ogg"
+    },
+    {
+        "russian_word": "Поплавок, плавать",
+        "english_word": "Float",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8cfd69f1196dd3dc101cb49819cfacaf.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/float.ogg"
+    },
+    {
+        "russian_word": "Гостинная",
+        "english_word": "Lounge",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/38062ff080c7787d54c3d18c9e75eaf9.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/lounge.ogg"
+    },
+    {
+        "russian_word": "Шум",
+        "english_word": "Noise",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/2e50c8ab68bc4585518fdba09ffd79a9.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/noise.ogg"
+    },
+    {
+        "russian_word": "Пароль",
+        "english_word": "Password",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5bcb93c3ce1ab1057c88447a4dacbde2.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/password.ogg"
+    },
+    {
+        "russian_word": "Марионетка",
+        "english_word": "Puppet",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8566b87da73e6308042c5b303f62ed9c.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/puppet.ogg"
+    },
+    {
+        "russian_word": "Сдвиг",
+        "english_word": "Shift",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/83f1cdda4b772cb3e151fa8320abaf07.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/shift.ogg"
+    },
+    {
+        "russian_word": "Кегли",
+        "english_word": "Skittles",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/044c44a7bde080c22bbc64bf811f00eb.jpeg",
+        "sound_card": null
+    },
+    {
+        "russian_word": "Рукав",
+        "english_word": "Sleeve",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4e93db3de25b2fbc6d191a1057f7577e.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/sleeve.ogg"
+    },
+    {
+        "russian_word": "Водопроводный кран",
+        "english_word": "Tap",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/64f8564b8714a8898fab5548d0d8eac7.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/tap.ogg"
+    },
+    {
+        "russian_word": "Планшет",
+        "english_word": "The tablet",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/31de59e94a00bbb3fc35b2943c1ca31a.jpeg",
+        "sound_card": null
+    },
+    {
+        "russian_word": "Пропадать",
+        "english_word": "Vanish",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3965c351a1501de659da0a4640e57780.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/vanish.ogg"
+    },
+    {
+        "russian_word": "Деформироваться",
+        "english_word": "Warp",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7a37ca9859e588c921e57ad2f9b11b51.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/warp.ogg"
+    },
+    {
+        "russian_word": "Странный",
+        "english_word": "Odd",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/779f89f1ece8380d19d8c711b42779f3.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/odd.ogg"
+    },
+    {
+        "russian_word": "Санки",
+        "english_word": "Sleigh",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/46786778ac27a904765909353cebba87.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/sleigh.ogg"
+    },
+    {
+        "russian_word": "Режим",
+        "english_word": "Mode",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/03354c299fb799ed653439bab71b081e.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/mode.ogg"
+    },
+    {
+        "russian_word": "Шотландский",
+        "english_word": "Scotch",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/6302dcfcbc3dcea4b42a105b770c966a.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/scotch.ogg"
+    },
+    {
+        "russian_word": "Коготь",
+        "english_word": "Talon",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1c50cc4ba5942cd8af2d6b554eecdb1c.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/talon.ogg"
+    },
+    {
+        "russian_word": "Стрела",
+        "english_word": "Arrow",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7db1ccd4bf67c28fd5b0d110743b2d3a.jpeg",
+        "sound_card": null
+    },
+    {
+        "russian_word": "Прикосновение",
+        "english_word": "Touch",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7f6a62fa14c95793339a13904ab3012d.jpeg",
+        "sound_card": null
+    },
+    {
+        "russian_word": "Бак,резервуар",
+        "english_word": "Tank",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3e14cf4262251fb055bce21b36025241.jpeg",
+        "sound_card": null
+    },
+    {
+        "russian_word": "Изюм",
+        "english_word": "Raisin",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1bd07ccd68bfde5afb33ba73ff4bb164.jpeg",
+        "sound_card": null
+    },
+    {
+        "russian_word": "Бюстгальтер",
+        "english_word": "Bra",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3e668a0af48cdf342ec1e271d642e16f.jpeg",
+        "sound_card": null
+    },
+    {
+        "russian_word": "Сено",
+        "english_word": "Hay",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/97185678ab8927997b23d22606f0f257.jpeg",
+        "sound_card": null
+    },
+    {
+        "russian_word": "Привидение",
+        "english_word": "Ghost",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/25232410e3c7718f8b623338c3220bac.jpeg",
+        "sound_card": null
+    },
+    {
+        "russian_word": "Говорить",
+        "english_word": "Speak",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8ef89148bfb4580d085ff0732b68d180.jpeg",
+        "sound_card": null
+    },
+    {
+        "russian_word": "Вращение",
+        "english_word": "Rotate",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/82568ce9aebfe750309bdbaba1093c52.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/rotate.ogg"
+    },
+    {
+        "russian_word": "Яд",
+        "english_word": "Venom",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/279acf55545e5f9052f973bb8e40e202.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/venom.ogg"
+    },
+    {
+        "russian_word": "Холод,простуда",
+        "english_word": "Chill",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5d8cec4533be8c7a11dd78f04fec216a.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/chill.ogg"
+    },
+    {
+        "russian_word": "Карман",
+        "english_word": "Pocket",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/322387c56bcc5a741f235dd94ceb942f.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/pocket.ogg"
+    },
+    {
+        "russian_word": "Ворона",
+        "english_word": "Crow",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/64d3e49121b7bc92fc39229afe710210.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/crow.ogg"
+    },
+    {
+        "russian_word": "Свекла",
+        "english_word": "Beet",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/918bf2422710f5e0384c5fe7a3774f8d.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/beet.ogg"
+    },
+    {
+        "russian_word": "Горький",
+        "english_word": "Bitter",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8ad46b7919d2b02c1875f6d875e9168a.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/bitter.ogg"
+    },
+    {
+        "russian_word": "Мука",
+        "english_word": "Flour",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/6119f7318859b00b8ce6d0b6260af4a6.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/flour.ogg"
+    },
+    {
+        "russian_word": "Сильный",
+        "english_word": "Strong",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/96f10192fea3dad116d9dad0fbee5c21.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/strong.ogg"
+    },
+    {
+        "russian_word": "Довольный",
+        "english_word": "Amused",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/9d31fa9b33515951753685c30d54510a.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/amused.ogg"
+    },
+    {
+        "russian_word": "Гласный звук",
+        "english_word": "Vowel",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/3cfa37225435fbd9f1c318af623925c4.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/vowel.ogg"
+    },
+    {
+        "russian_word": "Коготь",
+        "english_word": "Claw",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/77745a6f199489628624a6e0f6bb14d4.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/claw.ogg"
+    },
+    {
+        "russian_word": "Колонна,столб",
+        "english_word": "Pillar",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/44d2325bbb9b2bdf8cd7be2f5a4cc21d.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/pillar.ogg"
+    },
+    {
+        "russian_word": "Заслуживать",
+        "english_word": "Deserve",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/601bae030fae9da8b51d7a3f1cbaef68.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/deserve.ogg"
+    },
+    {
+        "russian_word": "Гриб",
+        "english_word": "Mushroom",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/86352a6d6c2e647cadce9d975e72eb3b.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/mushroom.ogg"
+    },
+    {
+        "russian_word": "Нарушение",
+        "english_word": "Violation",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/31a64bba813244eb821a1a93012775ea.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/violation.ogg"
+    },
+    {
+        "russian_word": "Ничего",
+        "english_word": "Nothing",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4ba2354776101abb18a1b9ba356e7630.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/nothing.ogg"
+    },
+    {
+        "russian_word": "Половина",
+        "english_word": "Half",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1d143dc08b1c1d021029b9f2cdd564f1.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/half.ogg"
+    },
+    {
+        "russian_word": "Мачта",
+        "english_word": "Mast",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/97a173670c5bc50f5e47ded59dfd5ef1.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/mast.ogg"
+    },
+    {
+        "russian_word": "Сверкание",
+        "english_word": "Glitter",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/4931847016f419ffbd3c62042caecd3e.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/glitter.ogg"
+    },
+    {
+        "russian_word": "Жёлтый",
+        "english_word": "Yellow",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/55456f6a581e3fa3738147873ba0c181.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/yellow.ogg"
+    },
+    {
+        "russian_word": "Соединять,подключения",
+        "english_word": "Connect",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/113efd9cf21a8acb2e17f76ac6a54d5d.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/connect.ogg"
+    },
+    {
+        "russian_word": "Заплата",
+        "english_word": "Patch",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5f40d49b1f2e71b85da337959787d545.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/patch.ogg"
+    },
+    {
+        "russian_word": "Штепсель",
+        "english_word": "Plug",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/36f463df8e2b3d26612baf4e09fb68bc.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/plug.ogg"
+    },
+    {
+        "russian_word": "Петля",
+        "english_word": "Loop",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1cdb11b0d33fab280055f93e5a596ec7.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/loop.ogg"
+    },
+    {
+        "russian_word": "Комплект,набор",
+        "english_word": "Kit",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8ad4eb34246f15c1b09ab3e1d4616aa8.jpeg",
+        "sound_card": null
+    },
+    {
+        "russian_word": "Трезвость",
+        "english_word": "Sobriety",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/14b4d1717bec4b823350b06dfdbcafc8.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/sobriety.ogg"
+    },
+    {
+        "russian_word": "Бочка",
+        "english_word": "Cask",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5cbf7274e7fc69ef4f75ac292a3ce684.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/cask.ogg"
+    },
+    {
+        "russian_word": "Правда",
+        "english_word": "Truth",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/711c7ab96917b4246bcb90d9ce8b4ed2.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/truth.ogg"
+    },
+    {
+        "russian_word": "Суровый",
+        "english_word": "Severe",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/31fb6c471e47d4d25a856804d76db648.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/severe.ogg"
+    },
+    {
+        "russian_word": "Слуга",
+        "english_word": "Servant",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/8e87c74f8f9e6b4ecd025da520e5f2ee.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/servant.ogg"
+    },
+    {
+        "russian_word": "Почта",
+        "english_word": "Mail",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/7e7ebb65999ae06e4d8d79ff3b30cfde.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/mail.ogg"
+    },
+    {
+        "russian_word": "Отметка",
+        "english_word": "Mark",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/55474e67bdb8d67f83a058dddf65a4ea.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/mark.ogg"
+    },
+    {
+        "russian_word": "Трещина",
+        "english_word": "Crack",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/34f369360013d5bc4a4c959a8b52c7e8.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/crack.ogg"
+    },
+    {
+        "russian_word": "Пузырь",
+        "english_word": "Bubble",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/1c930be8601acc402aec3527a8ef3a28.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/bubble.ogg"
+    },
+    {
+        "russian_word": "Был",
+        "english_word": "Was",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/9f3b60ce7dd753654946fb97cc9eb77b.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/was.ogg"
+    },
+    {
+        "russian_word": "Булочка",
+        "english_word": "Bun",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/79bfc0cc3bf1a817e919acbc62bd08b4.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/bun.ogg"
+    },
+    {
+        "russian_word": "Разгромить",
+        "english_word": "Smash",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5b7896d8f9a615986bb1908dab97494a.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/smash.ogg"
+    },
+    {
+        "russian_word": "Катушка",
+        "english_word": "Coil",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/5b190297aaf02d97c12b7db62c4a247c.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/coil.ogg"
+    },
+    {
+        "russian_word": "Потеря",
+        "english_word": "Loss",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/76faaee5fcc2d3f559bc54d7f94942be.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/loss.ogg"
+    },
+    {
+        "russian_word": "Заваривать",
+        "english_word": "Brew",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/48f9ea2621ccfb544160772f4afe15ab.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/brew.ogg"
+    },
+    {
+        "russian_word": "Чёрный",
+        "english_word": "Black",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/24aa489a9a3e7df36c5b63a090207254.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/black.ogg"
+    },
+    {
+        "russian_word": "Консервант",
+        "english_word": "Preservative",
+        "img_card": "https://mnemoenglish.ru/img/mnemocard/152649c73a86f6c84cb62977522b7db6.jpeg",
+        "sound_card": "https://mnemoenglish.ru/sound/manualy/preservative.ogg"
+    }
+]
